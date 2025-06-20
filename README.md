@@ -20,7 +20,7 @@
 ## 🚀 Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,javascript,sql,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,javascript,github,git" />
 </p>
 
 ---
