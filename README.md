@@ -49,8 +49,8 @@
 
 ## 📬 Bana Ulaşın
 
-LinkedIn: [Emirhan Doğanlardan]([https://www.linkedin.com/in/by-emirhan](https://tr.linkedin.com/in/emirhan-do%C4%9Fanlardan-678946324))  
-E-posta: doganlardan190@gmail.com *(örnek adres)*
+LinkedIn: Emirhan Doğanlardan https://www.linkedin.com/in/by-emirhan](https://tr.linkedin.com/in/emirhan-do%C4%9Fanlardan-678946324
+E-posta: doganlardan190@gmail.com
 
 ---
 
