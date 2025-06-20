@@ -28,7 +28,7 @@
 | `SQL Server`    | Veritabanı yönetimi             |
 | `Entity Framework` | ORM ve veri işlemleri        |
 | `HTML/CSS/JS`   | Web arayüz geliştirme           |
-| `AdminLTE / DataTables` | Admin panelleri ve tablolar |
+| `Admin / DataTables` | Admin panelleri ve tablolar |
 
 ---
 
@@ -49,8 +49,8 @@
 
 ## 📬 Bana Ulaşın
 
-LinkedIn: [linkedin.com/in/by-emirhan](https://www.linkedin.com/in/by-emirhan)  
-E-posta: emirhan@example.com *(örnek adres)*
+LinkedIn: [Emirhan Doğanlardan]([https://www.linkedin.com/in/by-emirhan](https://tr.linkedin.com/in/emirhan-do%C4%9Fanlardan-678946324))  
+E-posta: doganlardan190@gmail.com *(örnek adres)*
 
 ---
 
